@@ -12,12 +12,12 @@ Selenium is reliable like a Toyota but Cypress is like a luxurious European car.
 
 This GitHub account is my playground for all thee reasons above. Hope someone struggling will benefit from them as well for educational purposes.
 
-### Enjoy and use responsibly. ✌️
+Enjoy and use responsibly. ✌️
 
-# TLDR:
-* ## Selenium + Java + TestNG + Maven
-* ## Cypress + Javascript + Cucumber
-* ## Playwright + Java + TestNG + Maven
+## TLDR:
+* ### Selenium + Java + TestNG + Maven
+* ### Cypress + Javascript + Cucumber
+* ### Playwright + Java + TestNG + Maven
 
 <!--
 **madhawar/madhawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
