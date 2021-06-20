@@ -6,7 +6,7 @@ I like to work in UNIX/ Linux 🐧 environments. Even in my personal laptop I us
 
 I'm comfortable in Java more than any. But I can manage JavaScript too, when it comes to Cypress 🌲 for example. Not a big fan of Gherkin-Cucumber 🥒 to be honest. Selenium 🧪 is reliable like a Toyota but Cypress is like a luxurious European car. Nowadays I'm playing with Playwright 🎭 with Java which feels great too. This GitHub account is my playground for all thee reasons above. Hope someone struggling will benefit from them as well for educational purposes. Enjoy and please use responsibly. ✌️
 
-TLDR:
+### TLDR:
 * ### Selenium 🧪 + Java + TestNG + Maven
 * ### Cypress 🌲 + Javascript + Cucumber
 * ### Playwright 🎭 + Java + TestNG + Maven
