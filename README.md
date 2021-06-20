@@ -1,6 +1,4 @@
-# My story...
-
-## I'm a software tester. 👨‍💻
+I'm a software tester. 👨‍💻
 
 Although I'm not a very good programmer I'm someone who can get things done, with the help of Googling aimed at great communities like StackOverflow, GitHub, etc. Aren't we all, after all? 😉 But I genuinely like to code. I look for every opportunity to continuously  learn, improve until I can call myself a software engineer in testing. 
 
@@ -16,10 +14,10 @@ This GitHub account is my playground for all thee reasons above. Hope someone st
 
 ### Enjoy and use responsibly. ✌️
 
-TLDR:
-* Selenium + Java + TestNG + Maven
-* Cypress + Javascript + Cucumber
-* Playwright + Java + TestNG + Maven
+# TLDR:
+## * Selenium + Java + TestNG + Maven
+## * Cypress + Javascript + Cucumber
+## * Playwright + Java + TestNG + Maven
 
 <!--
 **madhawar/madhawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
