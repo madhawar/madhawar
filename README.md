@@ -15,9 +15,9 @@ This GitHub account is my playground for all thee reasons above. Hope someone st
 ### Enjoy and use responsibly. ✌️
 
 # TLDR:
-## * Selenium + Java + TestNG + Maven
-## * Cypress + Javascript + Cucumber
-## * Playwright + Java + TestNG + Maven
+* ## Selenium + Java + TestNG + Maven
+* ## Cypress + Javascript + Cucumber
+* ## Playwright + Java + TestNG + Maven
 
 <!--
 **madhawar/madhawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
