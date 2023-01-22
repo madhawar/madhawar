@@ -1,6 +1,6 @@
 🐞 I'm a software tester.
 
-⌨️ I can create automation projects from scratch, integrate them to CI such as Jenkins and write test automation scripts.
+⌨️ I can create automation projects from scratch, integrate them to CI tools such as Jenkins and write test automation scripts.
 
 - Selenium + TestNG, Maven, Java
 - Cypress + Cucumber, JavaScript
