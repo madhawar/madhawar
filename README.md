@@ -9,8 +9,12 @@ I'm a software tester.
 👨‍💻 Also find me on: 
 
 - StackOverflow: https://stackoverflow.com/users/13752757/madhawa (new)
-
 - StackOverflow: https://stackoverflow.com/users/1589850/madhawa-ratnayake (old)
+
+🖱️ Currently I'm learning
+
+- Python
+- React
 
 <!--
 **madhawar/madhawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
