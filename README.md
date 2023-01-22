@@ -6,6 +6,22 @@
 - Cypress + Cucumber, JavaScript
 - Playwright + Java
 
+🪓 I use
+
+- IntelliJ IDEA
+- Visual Studio Code
+- Git
+- Node.js
+- Postman
+- NoSQL Booster
+- DBeaver
+- OWASP ZAP
+- Apache JMeter
+- Xshell/ Xftp
+- Xmind
+- Windows 11
+- EndeavourOS + i3wm
+
 🖱️ I'm currently learning
 
 - Python
