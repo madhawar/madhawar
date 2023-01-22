@@ -20,7 +20,7 @@
 - Xshell/ Xftp
 - Xmind
 - Windows 11
-- EndeavourOS + i3wm
+- Linux (EndeavourOS + i3wm)
 
 🖱️ I'm currently learning
 
