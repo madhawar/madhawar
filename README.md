@@ -1,4 +1,4 @@
-I'm a software tester.
+🐞 I'm a software tester.
 
 ⌨️ I can create automation projects from scratch and write test automation scripts.
 
