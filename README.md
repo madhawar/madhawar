@@ -1,9 +1,9 @@
 🐞 I'm a software tester.
 
-⌨️ I can create automation projects from scratch and write test automation scripts.
+⌨️ I can create automation projects from scratch, integrate them to CI such as Jenkins and write test automation scripts.
 
-- Selenium + TestNG/ Maven/ Java
-- Cypress + Cucumber/ JavaScript
+- Selenium + TestNG, Maven, Java
+- Cypress + Cucumber, JavaScript
 - Playwright + Java
 
 🖱️ I'm currently learning
@@ -13,7 +13,7 @@
 
 👨‍💻 Also find me on: 
 
-- LinkedIn https://www.linkedin.com/in/madhawar/
+- LinkedIn https://www.linkedin.com/in/madhawar
 - StackOverflow https://stackoverflow.com/users/13752757/madhawa (new)
 - StackOverflow https://stackoverflow.com/users/1589850/madhawa-ratnayake (old)
 
