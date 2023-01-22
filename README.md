@@ -1,5 +1,16 @@
- StackOverflow: https://stackoverflow.com/users/13752757/madhawa (new)
- StackOverflow: https://stackoverflow.com/users/1589850/madhawa-ratnayake (old)
+I'm a software tester.
+
+⌨️ I can create automation projects from scratch and write test automation scripts.
+
+- Selenium + TestNG/ Maven/ Java
+- Cypress + Cucumber/ JavaScript
+- Playwright + Java
+
+👨‍💻 Also find me on: 
+
+- StackOverflow: https://stackoverflow.com/users/13752757/madhawa (new)
+
+- StackOverflow: https://stackoverflow.com/users/1589850/madhawa-ratnayake (old)
 
 <!--
 **madhawar/madhawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
