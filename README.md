@@ -13,8 +13,9 @@
 
 👨‍💻 Also find me on: 
 
-- StackOverflow: https://stackoverflow.com/users/13752757/madhawa (new)
-- StackOverflow: https://stackoverflow.com/users/1589850/madhawa-ratnayake (old)
+- LinkedIn https://www.linkedin.com/in/madhawar/
+- StackOverflow https://stackoverflow.com/users/13752757/madhawa (new)
+- StackOverflow https://stackoverflow.com/users/1589850/madhawa-ratnayake (old)
 
 <!--
 **madhawar/madhawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
