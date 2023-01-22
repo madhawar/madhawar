@@ -4,7 +4,7 @@
 
 - Selenium + TestNG, Maven, Java
 - Cypress + Cucumber, JavaScript
-- Playwright + Java
+- Playwright + Java/ JavaScript
 
 🪓 I use
 
@@ -17,7 +17,7 @@
 - DBeaver
 - OWASP ZAP
 - Apache JMeter
-- Xshell/ Xftp
+- Xshell, Xftp
 - Xmind
 - Windows 11
 - Linux (EndeavourOS + i3wm)
